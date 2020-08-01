@@ -1,0 +1,129 @@
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+#
+
+Date: Tue, 19 Nov 1996 20:00:10 -0800
+From: "Michael A. Mazur" 
+Subject: TAB: Counting Crows, "Mercury"
+
+Tab: "Mercury" Counting Crows
+Transcribed by Michael A. Mazur (mmazur@wpi.edu)
+
+Guitar 1 is an acoustic, tuned to open Eb (Eb Bb Eb G Bb Eb)
+Guitar 2 is a mandolin, tuned down 1/2 step (Gb Db Ab Eb)
+
+Note: Watch the time signature here. The main riff is in 14/8, which
+I think of as a measure of 6 followed by a measure of 8 (as
+I indicate below). But, the rest of the song is in 8/8, and the
+shifts from 14/8 to 8/8 and back again are subtle.
+
+Intro and main riff:
+
+|  |-----0-----------|----0--------------|
+|  |--------0--2/3\2-|-------0-----0-----|
+|14|-----------2/3\2-|-0--------------0--| Guitar 1 (all of guitar 1
+| 8|-----------2/3\2-|-0-----------------| is played with a slide)
+|  |-----------2/3\2-|-0-----------------|
+|  |--0--------------|-0--------0--------|
+    (6/8)             (8/8)
+
+Verse: (guitar 1 plays main riff over Eb)
+| |/5--------5--------|
+| |/5--5-----5--------|
+|8|/5-----5--5--5-----| Guitar 1 plays this for the Ab chord
+|8|/5--------5-----5--| (note the change to 8/8)
+| |/5--------5--------|
+| |/5--------5--------|
+
+
+Eb
+She is trapped inside a month of grey
+And they take a little every day
+         Ab
+She is a victim of her own responses
+                                  Eb
+Shackled to a heart that wants to settle
+And the runs away
+
+Chorus:
+   Bb                  Ab
+| |/7--------7--------|/5--------5--------|
+| |/7--7-----7--------|/5--5-----5--------|
+|8|/7-----7--7--7-----|/5-----5--5--5-----| Guitar 1
+|8|/7--------7-----7--|/5--------5-----5--| (again in 8/8)
+| |/7--------7--------|/5--------5--------|
+| |/7--------7--------|/5--------5--------|
+
+       Bb               Ab
+It's a sin to be fading endlessly
+                  Eb (guitar 1 plays main riff)
+Yeah, but she's alright with me
+
+She is leaving on a walkaway
+She is leaving me in disarray
+In the absence of a place to be
+She stands there looking back at me
+Hesitates, and then turns away
+She'll change so suddenly
+She's just like mercury
+Yeah, but she's alright with me
+
+Bridge:
+|/12--|
+|/12--|
+|/12--| Guitar 1 plays this at the end of the chorus, and then
+|/12--| plays the main riff over the bridge
+|/12--|
+|/12--|
+
+|------------------------------|
+|--7--7--7--7--9--9b(10)r9--9--| Guitar 2 (trem. picked)
+|------------------------------|
+|------------------------------|
+
+(Guitar 1 plays last 8/14 of main riff once)
+
+Keep some sorrow in your
+hearts and minds
+For the things that die before their time
+For the restlessly abandoned homes
+The tired and weary rambler's bones
+And stay beside me where I lie
+She's entwined in me
+Crazy as can be
+Yeah, but she's alright with me	
+
+
+
+Lyrics - 
+
+She is trapped inside a month of grey
+And they take a little every day
+She is a victim of her own responses
+Shackled to a heart that wants to settle
+And then runs away
+
+It's a sin to be fading endlessly
+Yeah, but she's alright with me
+
+She is leaving on a walkaway
+She is leaving me in disarray
+In the absence of a place to be
+She stands there looking back at me
+Hesitates, and then turns away
+
+She'll change so suddenly
+She's just like mercury
+Yeah, but she's alright with me
+
+Keep some sorrow in your hearts and minds
+For the things that die before their time
+For the restlessly abandoned homes
+The tired and weary rambler's bones
+And stay beside me where I lie
+
+She's entwined in me
+Crazy as can be
+Yeah, but she's alright with me

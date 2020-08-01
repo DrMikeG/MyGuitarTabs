@@ -1,0 +1,16 @@
+G# below C3   6th string, forth fret
+G#  below C4  3rd string, first fret
+D# below C4  4th string, 1st fret
+C3                    5th string, 3rd fret
+
+
+    G  x8
+e|-------|------|---
+B|-------|------|---
+G|---1---|--1---|---
+D|----1--|---1--|---3
+A|-----3-|----3-|----3
+E|--4----|-4----|-1-
+
+F below C3 6th string 2nd fret
+F below C4 4th string 3rd fret

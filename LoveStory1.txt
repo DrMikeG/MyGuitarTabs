@@ -1,0 +1,68 @@
+Banjo intro and first verse
+
+Picking Pattern:
+dgbe
+d-g-e-b-e-b-g-b
+d-g-e-b-e-b-g-b
+
+
+  D? A? Bm? G?
+e|0  0  0   0    
+B|3  3  3   3
+G|2  2  4   2
+D|4  2  4   5
+A|X  X  X   X
+E|X  X  X   X
+
+
+Chords
+
+  Dsus2  Asus2 Bm G/Dsus2
+e| 0      0    2   0
+B| 3      3    3   3
+G| 2      2    4   2
+D| 0      2    4   0
+A| X      X    2   X
+E| X      X    X   3
+
+Intro
+
+	Dsus2  Asus2 Bm G/Dsus2
+
+Verse
+
+	Dsus2 G/Dsus2 Bm G/Dsus2
+
+	Dsus2 G/Dsus2 Bm G/Dsus2
+
+	Asus2 
+
+Pre-chorus
+
+	G/Dsus2 Asus2 Bm Dsus2
+	
+	G/Dsus2 Asus2 Bm Dsus2
+	
+	G/Dsus2 Asus2 
+	
+Chorus
+	Dsus2 Asus2 Bm G/Dsus2 Asus2
+
+Instru
+	
+Bridge
+	Bm G/Dsus2 Dsus2 Asus2
+	
+Outro (key change) one whole step up
+	
+	Power chord shape:
+	7th fret A string
+	9th fret D string
+	9th fret G string
+	All others open
+	
+	2nd chord, 244
+	3rd chord, 466
+	4th chord, 022
+	
+	E, E, C#m, A

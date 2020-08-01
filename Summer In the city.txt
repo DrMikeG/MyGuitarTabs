@@ -1,0 +1,137 @@
+                     "Summer in the City"
+            (John Sebastian - Mark Sebastian - Steve Boone)
+
+Intro:
+
+organ and electric piano arr. for guitar [3X]
+
+ v   v   v   v
+-----------------
+-----------------
+-------------x---
+-6-------5-------
+-----------------
+-4-------3-------
+             ^ echoed drums
+
+bass (note intentional G-Ab dissonance on the first beat):
+
+ v   v   v   v
+-----------------
+-5-------5-------
+-----------------
+-----------------
+
+
+Verse 1:
+
+[Notes: 1) I believe that the guitar is capoed at the third fret,
+ in which case the chord progression transposes to the stock folkie
+ riff Am-Am/G-D9/F#-Fmaj7-E.  This is further confirmed by the
+ voicings of the F and Bb chords in the chorus, which sound like
+ root-position D and G capoed up.  2) The electric piano plays a
+ variation of the second part of the instrumental break (q.v.) on
+ the first four lines of the verse.]
+
+Cm			[x35543]
+Cm/Bb			[x35343]
+F9/A 			[x03543]
+Abmaj7			[xx4544]
+G			[355433]
+G7			[353463]
+C			[035553]
+F			[587565]
+Bb			[688766]
+Dm			[557765]
+
+Cm        Cm/Bb
+Hot town, summer in the city
+F9/A [x03543]           Abmaj7        G
+Back of my neck getting dirty and gritty
+Cm         Cm/Bb
+Been down, isn't it a pity
+F9/A                 Abmaj7          G
+Doesn't seem to be a shadow in the city
+
+ G          G7/B
+All around, people looking half dead
+ Cm                       C
+Walking on the sidewalk, hotter than a match head
+
+Chorus (w/autoharp):
+
+F                   Bb
+But at night it's a different world
+F          Bb
+Go out and find a girl
+F                   Bb
+Come-on come-on and dance all night
+F                      Bb
+Despite the heat it'll be alright
+
+    Dm               G
+And babe, don't you know it's a pity
+ Dm         G
+That the days can't be like the nights
+       Dm              G
+In the summer, in the city
+       Dm              G
+In the summer, in the city
+
+Verse 2:
+
+Cool town, evening in the city
+Dressing so fine and looking so pretty
+Cool cat, looking for a kitty
+Gonna look in every corner of the city
+Till I'm wheezing like a bus stop
+Running up the stairs, gonna meet you on the rooftop
+
+[repeat chorus]
+
+Instrumental break:
+
+guitar (doubled octave higher w/electric piano) w/sound effects
+
+ Cm               Ab7
+ v   v   v   v     v   v   v   v
+-----------------|------------------
+-----------------|------------------
+-----------------|------------------
+-5--3-3-5-3---3--|-6--4-4-6-4---4---
+-----6------6----|-----6------6-----
+-----------------|------------------
+
+organ:
+
+C (octaves; hold through next section)
+/ / / /
+
+Wurlitzer electric piano arr. for two guitars [2X]
+
+(Cm)       (/Bb)         (/A)        (/Ab)(Gsus4)
+ v     v     v     v       v     v     v     v
+15----15----1515--15-----|1515--15----1515-15--15--
+16----16----1516--16-----|1516--16----1615-15--15--
+17----17----1717--17-----|1717--17----1717-17--17--
+-------------------------|-------------------------
+-------------------------|-------------------------
+
+           guitar 3 (2nd time only): Abmaj7  G
+ v     v     v     v       v     v     v     v
+-------------------------|-------------------------
+-------------------------|-------------------------
+-------------------------|-------------------------
+10-10----10--8-------8---|-7--------7--6--------5--
+-------------------------|-------------------------
+-8--8-----8--6-------6---|-5--------5--4--------3--
+2: ^^  1: ^^
+
+[repeat first verse and chorus]
+
+[repeat instrumental break]
+
+[repeat first verse and chorus w/o vocals; fade]
+
+
+-- another ace 60's tab from Andrew Rogers

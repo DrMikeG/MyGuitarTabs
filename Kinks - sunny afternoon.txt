@@ -1,0 +1,73 @@
+
+Dm	[x 0 0 2 3 1]
+Dm/C	[x x 0 2 1 1]
+Dm/B	[x x 0 2 0 1]
+Dm/B	[1 2 3 2 3 1] 
+Dm/Bb	[1 1 3 2 3 1]
+A	[0 0 2 2 2 0]
+A/G	[3 0 2 2 2 0]
+A/F	[1 0 2 2 2 0]
+A/E	[0 0 2 2 2 0]
+
+SUNNY AFTERNOON- The Kinks
+
+    Dm    Dm/C  Dm/B  Dm/Bb A     A/G   A/F   A/E
+e|--1-----1-----1-----1-----0-----0-----1-----0-----
+B|--3-----1-----0-----3-----2-----2-----0-----2-----
+G|--2-----2-----2-----2-----2-----2-----2-----2-----
+D|--0-----0-----0-----3-----2-----2-----2-----2-----
+A|--0-----------------1-----0-----0-----2-----0-----
+E|--------------------1-----0-----3-----0-----0-----
+
+x2
+
+     a		    G7		      C		    G7
+The taxman's taken all my dough, and left me in my stately home,
+ E7			a
+lazing on a sunny afternoon.
+ a	     G7			 C	     G7
+And I can't sail my yacht, he's taken ev'rything I've got.
+ E7				 a
+All I've got 's this sunny afternoon.
+
+ A7				     D7
+Save me, save me, save me from this squeeze,
+	    G				 C  E7
+I've got a big fat mamma tryin' to break me.
+       a		D	   a		     D7		
+And I love to live so pleasantly, live this life of luxury
+ C	     E7		a   E7
+lazing on a sunny afternoon,
+    a	     E7    a 	    E7    a        E7
+in summertime, in summertime, in summertime.
+
+   a			  G7	       C		   G7
+My girlfriend's gone off with my car, and gone back to her ma and pa
+ E7				 a
+telling tales of drunkeness and cruelty.
+ a	 G7 	       C		G7	
+Now I'm sitting here, sipping at my ice-cold beer,
+ E7			a
+lazing on a sunny afternoon.
+
+ A7			   D7
+Help me, help me, help me sail away,
+	G7				    C
+you give me two good reasons why I ought to stay.
+ E7			  D	    a		      D7	
+'Cos I love to live so pleasantly, live this life of luxury
+ C	     E7		a   E7
+lazing on a sunny afternoon,
+    a	     E7    a 	    E7    a        E7
+in summertime, in summertime, in summertime.
+
+ A7				     D7
+Save me, save me, save me from this squeeze,
+	    G				 C  E7
+I've got a big fat mamma tryin' to break me.
+       a		D	   a		     D7		
+And I love to live so pleasantly, live this life of luxury
+ C	     E7		a   E7
+lazing on a sunny afternoon,
+    a	     E7    a 	    E7    a        E7
+in summertime, in summertime, in summertime.
